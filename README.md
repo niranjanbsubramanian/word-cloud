@@ -2,10 +2,10 @@
 This is the code [for this blog post.](https://aiaspirant.com/word-cloud-in-python/)
 
 # Dependencies
-Matplotlib
-Numpy
-PIL
-wordcloud
+Matplotlib <br />
+Numpy <br />
+PILLOW <br />
+wordcloud <br />
 
 
 # Credits
